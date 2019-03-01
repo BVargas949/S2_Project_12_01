@@ -21,10 +21,10 @@
 var item = [10582, 23015, 41807, 10041];
 
 //  itemDescription array containing the information on certain items
-var itemDescription = [" 1975 Green Bay Packers Football (signed), Item 1058", " Tom Landry 1955 Football Card (unsigned), Item 23015", " 1916 Army-Navy Game, Framed Photo (signed), Item 41807", "Protective Card Sheets, Item 10041"];
+var itemDescription = [" 1975 Green Bay Packers Football (signed), Item 10582", " Tom Landry 1955 Football Card (unsigned), Item 23015", " 1916 Army-Navy Game, Framed Photo (signed), Item 41807", "Protective Card Sheets, Item 10041"];
 
 // itemPrice array containing the price for each item.
-var itemPrice = [149.49, 89.98, 334.93, 22.67];
+var itemPrice = [149.93, 89.98, 334.93, 22.67];
 
 //itemQty array containing the amount a user can order at a time.
 var itemQty = [1, 1, 1, 4];
